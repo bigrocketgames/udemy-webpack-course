@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "npm": "^5.8.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
   }
 }
